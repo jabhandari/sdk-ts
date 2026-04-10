@@ -18,5 +18,5 @@ Feature: Mediator message pickup after wallet restore
       | did       | kid     | did_schema |
       | secp256k1 | assert1 | secp256k1  |
       | ed25519   | assert1 | ed25519    |
-      |
+
 
